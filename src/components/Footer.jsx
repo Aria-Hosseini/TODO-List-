@@ -1,11 +1,11 @@
 export default function Footer() {
   return (
-    <footer className="fixed bottom-0 left-0 right-0 py-4 text-center text-gray-600 bg-white bg-opacity-20 backdrop-blur-lg shadow-2xl rounded-md mx-4 mb-4 border border-gray-200 border-opacity-20">
+    <footer className="fixed bottom-0 left-0 right-0 py-4 text-center text-gray-600 bg-white/20 bg-opacity-20 backdrop-blur-lg shadow-2xl rounded-md mx-4 mb-4 border border-gray-200 border-opacity-20">
       <div className="font-vazir container mx-auto px-4">
         <p className="font-vazir text-sm">
           designed by {' '}
           <a 
-            href="https://github.com/vihanCode" 
+            href="https://github.com/Aria-Hosseini" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-blue-500 hover:text-blue-700 transition-colors duration-300"
@@ -15,7 +15,7 @@ export default function Footer() {
         </p>
         <div className="flex justify-center space-x-4 mt-2">
           <a 
-            href="https://github.com/vihanCode" 
+            href="https://github.com/Aria-Hosseini" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-700 transition-colors duration-300"
@@ -26,7 +26,7 @@ export default function Footer() {
             </svg>
           </a>
           <a 
-            href="https://linkedin.com/in/vihanCode" 
+            href="https://www.linkedin.com/in/aria-hosseini/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-gray-700 transition-colors duration-300"
