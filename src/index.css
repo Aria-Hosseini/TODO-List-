@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@import url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/font-face.css');
+
+@font-face {
+    font-family: 'Vazir';
+    src: url('/fonts/Vazir.woff2') format('woff2'),
+         url('/fonts/Vazir.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
