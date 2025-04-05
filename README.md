@@ -2,8 +2,6 @@
 
 A modern, responsive TODO list application built with React and Tailwind CSS, featuring a beautiful glassmorphic UI design.
 
-![TODO-List Screenshot](screenshot.png)
-
 ## Features
 
 - **Task Management**: Create, edit, and delete tasks with ease
